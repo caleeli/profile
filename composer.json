@@ -1,0 +1,10 @@
+{
+    "name": "davidc/profile",
+    "authors": [
+        {
+            "name": "David Callizaya",
+            "email": "david.callizaya@processmaker.com"
+        }
+    ],
+    "require": {}
+}
