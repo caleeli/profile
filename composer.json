@@ -6,5 +6,8 @@
             "email": "david.callizaya@processmaker.com"
         }
     ],
-    "require": {}
+    "require": {
+        "behat/behat": "^3.3",
+        "whatsapp/chat-api": "v3.2.0.1"
+    }
 }
